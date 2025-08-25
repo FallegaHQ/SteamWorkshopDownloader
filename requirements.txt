@@ -1,0 +1,12 @@
+# Core dependencies
+requests>=2.0.0
+beautifulsoup4>=4.13.0
+
+# Optional dependencies for better performance and features
+lxml>=4.6.0  # Faster HTML parsing
+tkinterweb>=3.15.0  # HTML rendering in tkinter (recommended)
+
+# Development dependencies (optional)
+pytest>=6.0.0  # For testing
+black>=21.0.0  # Code formatting
+mypy>=0.812  # Type checking
