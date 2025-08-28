@@ -8,6 +8,12 @@ A Python GUI application for downloading Steam Workshop items using SteamCMD wit
 
 Created initially as a way to (re)learn python and to help me fulfill a need of mine of enjoyment :)
 
+## Try it out!
+
+Before you delve into the code, you can try a precompiled version that doesn't require any further downloads:
+
+Here: [0.0.1](https://github.com/FallegaHQ/SteamWorkshopDownloader/releases/tag/0.0.1)
+
 ## Features
 
 - **Simple GUI Interface**: Easy-to-use tkinter-based interface
